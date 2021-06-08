@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="namaValue" type="id" />
+    <item name="umurValue" type="id" />
+    <item name="jeniskelaminValue" type="id" />
+</resources>
